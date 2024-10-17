@@ -1,0 +1,5 @@
+login_user: root
+login_host: db-prod.chavavenkat.online
+login_password: ExpenseApp1
+DB_HOST: db-prod.chavavenkat.online
+BACKEND_API_URL: backend.app-prod.chavavenkat.online

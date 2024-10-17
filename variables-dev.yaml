@@ -1,0 +1,6 @@
+# login_user: root
+login_host: db-dev.chavavenkat.online
+login_password: ExpenseApp1
+# login_host: db-dev.chavavenkat.online
+BACKEND_API_URL: backend.app-dev.chavavenkat.online
+# nexus_url: nexus.chavavenkat.online:8081
